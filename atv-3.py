@@ -1,8 +1,8 @@
 import random
 
-numero_secreto = random.randint(1, 100)
+numero_secreto = random.randint(1, 50)
 
-tentativas = 8
+tentativas = 5
 
 print("Bem-vindo ao jogo de adivinhação!")
 print("Você tem 5 tentativas para adivinhar o número secreto entre 1 e 100.")
